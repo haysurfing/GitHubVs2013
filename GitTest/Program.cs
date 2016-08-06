@@ -10,7 +10,9 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("wocao");
+            Console.WriteLine("hello world");
+            Console.ReadLine();
+
         }
     }
 }
